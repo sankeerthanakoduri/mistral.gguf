@@ -1,5 +1,5 @@
 # mistral.gguf
-#Building an Offline AI Chatbot with "Mistral 7B + Gradio + CSV Logging" 
+# Building an Offline AI Chatbot with "Mistral 7B + Gradio + CSV Logging" 
 💡 What This Project Does:
  ✅ Runs an LLM locally using llama-cpp with a .gguf version of Mistral-7B
  ✅ Handles real-time question-answering with natural language prompts
